@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://lyjdwh.github.io/about/index.html</loc>
+    
+    <lastmod>2018-01-29T16:31:49.474Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://lyjdwh.github.io/2018/01/30/hello-world/</loc>
     
     <lastmod>2018-01-29T16:26:30.895Z</lastmod>
@@ -26,13 +33,6 @@
     <loc>http://lyjdwh.github.io/categories/index.html</loc>
     
     <lastmod>2018-01-29T10:35:52.259Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://lyjdwh.github.io/about/index.html</loc>
-    
-    <lastmod>2018-01-29T09:37:39.947Z</lastmod>
     
   </url>
   
