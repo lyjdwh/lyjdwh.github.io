@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://lyjdwh.github.io/"/>
-  <updated>2018-01-31T13:05:57.994Z</updated>
+  <updated>2018-01-29T16:26:30.895Z</updated>
   <id>http://lyjdwh.github.io/</id>
   
   <author>
@@ -15,27 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>test</title>
-    <link href="http://lyjdwh.github.io/2018/01/31/test/"/>
-    <id>http://lyjdwh.github.io/2018/01/31/test/</id>
-    <published>2018-01-31T12:59:21.000Z</published>
-    <updated>2018-01-31T13:05:57.994Z</updated>
-    
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><h1 id="test"><a href="#test" class="headerlink" title="test"></a>test</h1>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;h1 id=&quot;test&quot;&gt;&lt;a href=&quot;#test&quot; class=&quot;headerlink&quot; title=&quot;test&quot;&gt;&lt;/a&gt;test&lt;/h1&gt;
-      
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>Hexo 常用命令</title>
