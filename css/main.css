@@ -2026,7 +2026,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #18ff5b;
+  background: #87c1d0;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3206,6 +3206,8 @@ hr {
   background-size: 320px 659px;
   background-position-y: lvh;
   background-repeat: no-repeat;
+  left: 0;
+  position: fixed;
 }
 .sidebar a {
   color: #649ab6;
