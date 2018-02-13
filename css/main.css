@@ -2026,7 +2026,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #87c1d0;
+  background: #20fcff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3314,4 +3314,62 @@ img.img-topic {
   .category-all-page .category-all-title {
     margin-top: -5px;
   }
+}
+#dongman {
+  width: 50%;
+  height: auto;
+  float: left;
+}
+.girls {
+  width: 32%;
+  height: auto;
+  border: 1px solid #000;
+  background-size: cover;
+  background-position: center center;
+  float: left;
+}
+.girls img {
+  opacity: 0;
+  width: 100%;
+  height: 100px;
+}
+#xiaoyu {
+  width: 10%;
+  height: auto;
+  float: left;
+  padding-top: 35%;
+  padding-bottom: 35%;
+}
+#xiaoyu img {
+  width: 100%;
+  height: auto;
+}
+#her {
+  width: 40%;
+  height: auto;
+  float: left;
+  background-size: cover;
+  background-position: center center;
+}
+#her img {
+  width: 100%;
+  height: 450px;
+  opacity: 0;
+}
+div.post-body {
+  float: left;
+  width: 100%;
+}
+div.copyright {
+  float: left;
+  width: 100%;
+  text-align: center;
+}
+#main.main {
+  float: left;
+  width: 100%;
+}
+footer#footer.footer {
+  float: left;
+  width: 100%;
 }
